@@ -239,6 +239,9 @@ nav ul li a {
 
 }
 
+.btn-container {
+    flex-shrink: 0;
+}
 
 .signup-btn {
     padding: 7px 20px;
@@ -249,6 +252,7 @@ nav ul li a {
     color: white;
     font-weight: 500;
     width: fit-content;
+    flex-shrink: 0;
 }
 
 footer {
