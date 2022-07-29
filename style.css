@@ -84,7 +84,7 @@ nav ul li a {
     display: flex;
     align-items: flex-start;
     flex-flow: column wrap;
-    width: 60%;
+    width: 55%;
 
 
 }
@@ -103,9 +103,10 @@ nav ul li a {
 }
 
 .hero-img-container {
-    width: 40%;
+    width: 45%;
     justify-content: flex-end;
     display: flex;
+    flex-shrink: 0;
 
 
 
